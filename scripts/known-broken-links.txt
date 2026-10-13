@@ -1,0 +1,32 @@
+# Already broken on Netlify when the site moved to jiji (October 2026): relative
+# links in the 2014 HTML that never resolved. scripts/check-links.py reports
+# these as a count, and fails on anything else.
+/berlin/berlin/index.html
+/berlin/finals.html
+/boston/boston/index.html
+/boston/finals.html
+/chicago/chicago/index.html
+/chicago/finals.html
+/istanbul/finals.html
+/istanbul/istanbul/index.html
+/london/finals.html
+/london/london/index.html
+/mexico_city/finals.html
+/mexico_city/mexico_city/index.html
+/miami/finals.html
+/miami/miami/index.html
+/moscow/finals.html
+/moscow/moscow/index.html
+/rules/rules-finals.pdf
+/san_francisco/finals.html
+/san_francisco/san_francisco/index.html
+/singapore/finals.html
+/singapore/singapore/index.html
+/sydney/finals.html
+/sydney/sydney/index.html
+/tel_aviv/finals.html
+/tel_aviv/tel_aviv/index.html
+/toronto/finals.html
+/toronto/toronto/index.html
+/warsaw/finals.html
+/warsaw/warsaw/index.html
