@@ -1,7 +1,9 @@
 # BattleHack 2014
 
 A static archive of the 2014 BattleHack site, served at
-[2014.battlehack.betta.io](https://2014.battlehack.betta.io).
+[battlehack2014.betta.io](https://battlehack2014.betta.io). It was
+2014.battlehack.betta.io until October 2026, when betta.io moved to Cloudflare,
+whose free certificate only covers one level below betta.io.
 
 ## Hosting
 
